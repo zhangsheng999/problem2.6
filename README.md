@@ -6,8 +6,9 @@
 参考教材，有
 
 ![](https://github.com/zhaozhanyi0804/computationalphysics_N2015301020052/blob/master/Homework_5/5-3.jpg)
-考虑到方程没有解析解，于是根据欧拉法递推确定下一时刻的飞行状态，直到y小于等于0。dt设为0.1。
+ 
+ 考虑到方程没有解析解，于是根据欧拉法递推确定下一时刻的飞行状态，直到y小于等于0。dt设为0.1。
 此时我们将初速度给定为700米每秒，然后不断调整发射角度得到一下图像
 #### θ=30°
 得到图像
-![]（）
+![]（https://github.com/zhangsheng999/1111/blob/master/1.png）
