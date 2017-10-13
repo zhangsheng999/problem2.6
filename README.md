@@ -11,4 +11,4 @@
 此时我们将初速度给定为700米每秒，然后不断调整发射角度得到一下图像
 #### θ=30°
 得到图像
-![]（https://github.com/zhangsheng999/1111/blob/master/1.png）
+![](https://github.com/zhangsheng999/1111/blob/master/1.png)
