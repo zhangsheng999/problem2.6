@@ -38,3 +38,7 @@
 得到图像
 
 ![](https://github.com/zhangsheng999/1111/blob/master/6.png)
+
+
+
+[参考代码](https://github.com/zhangsheng999/1111/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3%20(4).py)
